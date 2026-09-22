@@ -4,3 +4,4 @@ __pycache__/
 .env
 usuarios.db
 .pytest_cache/
+.venv
